@@ -1,0 +1,25 @@
+.header, .image-container, .btn {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: #DFD3C3;
+}
+
+h1, h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: #781C68;
+}
+
+
+#one, #two {
+    padding: 20px;
+    background: #F57328;
+    color: #781C68;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    border: 2px solid white;
+}
+
